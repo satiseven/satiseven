@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/satiseven">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q-Amyr-p" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satiseven" />
 </a>
 <a href="https://github.com/satiseven">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=q-Amyr-p&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satiseven&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <!--
 **satiseven/satiseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
