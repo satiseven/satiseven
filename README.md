@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on a NetWork MLM System right Now 👯
+### 🔭 Working on NextJs Amazing Project 👯
  <img align="center" src="https://miro.medium.com/max/1000/1*fsseXIPGEhwmg6kfgXyIjA.jpeg" />
 <a href="https://github.com/satiseven">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satiseven&count_private=true" />
