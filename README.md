@@ -1,9 +1,10 @@
-## Hi there I'm Reza 👋
-## 🔭  A FULL-STACK PHP JS DEVELOPER 👯
- 
+
  
 
 <div align="center">
+ 
+ ## Hi there I'm Reza 👋
+## 🔭  A FULL-STACK PHP JS DEVELOPER 👯
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=satiseven&theme=monokai&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
