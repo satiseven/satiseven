@@ -14,9 +14,17 @@
 
  ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/satiseven/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn"  /></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+<a href="mailto:satiseven777@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="REZA GHOLIZADEH | Gmail"  /></a>
+
+<a href="https://t.me/satisevenm"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="REZA GHOLIZADEH | Telegram"  /></a>
+<a href="https://www.linkedin.com/in/satiseven/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="REZA GHOLI ZADEH | LinkedIn"  /></a>
+
+<a href="https://www.facebook.com/satiseven"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="REZA GHOLIZADEH | FaceBook"  /></a>
+
+<a href="https://twitter.com/rizaguli"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="REZA GHOLIZADEH | twitter"  /></a>
+
+
 </br>
 <!--
 **satiseven/satiseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
