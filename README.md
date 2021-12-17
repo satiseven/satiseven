@@ -3,9 +3,11 @@
  
  
 
-
+<p align="center">
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satiseven&theme=monokai&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+ </p>
  
 ### 📫  How to reach me: satiseven777@gmail.com
 <!--
