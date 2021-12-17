@@ -4,7 +4,7 @@
  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satiseven)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satiseven&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
  
 ### 📫  How to reach me: satiseven777@gmail.com
