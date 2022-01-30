@@ -16,7 +16,7 @@
 </p>
  
 ### Who am I?
-Hey, I'm Reza! I'm an out-of-the-box thinker with a varied skill set,a Full-Stack PHP, JS Developer who love Working on Challenging projects ❤️.
+An out-of-the-box thinker with a varied skill set,a Full-Stack PHP, JS Developer who love Working on Challenging projects ❤️.
 I love experimenting with new technologies so I get out of my comfort zone quickly 🐭.
 I'm a little lazy in starting things 
 🐻, but I'm also very hardworking.
