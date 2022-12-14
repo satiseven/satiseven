@@ -47,6 +47,8 @@ I'm a little lazy in starting things
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Snake animation](https://github.com/satiseven/satiseven/blob/main/github-contribution-grid-snake.svg)
+
 ### 📫 Connect with me:
 
 <a href="mailto:satiseven777@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="REZA GHOLIZADEH | Gmail"  /></a>
